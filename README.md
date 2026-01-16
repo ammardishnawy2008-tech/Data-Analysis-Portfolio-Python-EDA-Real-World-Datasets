@@ -1,5 +1,20 @@
 # Data-Analysis-Portfolio-Python-EDA-Real-World-Datasets
 This portfolio showcases a collection of data analysis projects focused on data cleaning, exploratory data analysis (EDA), and data visualization using Python.  The projects are based on real-world datasets and demonstrate a structured analytical approach from raw data to meaningful insights.
+---
+data-analysis-portfolio/
+
+── 01_Global_Economic_Analysis_(WEO)_Dataset       https://github.com/ammardishnawy2008-tech/Global-Economic-Analysis-using-the-World-Economic-Outlook-WEO-Dataset
+
+── 02_Statistical-Performance-Indicators-Analysis       https://github.com/ammardishnawy2008-tech/Statistical-Performance-Indicators-Analysis   
+
+── 03_WHO-Triple-Billion-Analysis-Insights           https://github.com/ammardishnawy2008-tech/WHO-Triple-Billion-Analysis-Insights
+
+── 04_adult_income_analysis        /https://github.com/ammardishnawy2008-tech/Medical-Data-Visualizer-Cardiovascular-Risk-Analysis
+
+── 05_Medical-Data-Visualizer-Cardiovascular-Risk-Analysis     /https://github.com/ammardishnawy2008-tech/adult-income-analysis
+
+└── README.md   ← README
+
 # 📊 Data Analysis Portfolio | Python & EDA
 
 Welcome to my data analysis portfolio.  
@@ -59,31 +74,5 @@ The goal of this portfolio is to demonstrate:
 
 - Kaggle: 
 - Email: ammardishnawy2008@gmail.com
-
----
-data-analysis-portfolio/
-│
-├── 01_data_cleaning_projects/
-│   ├── medical_data_visualizer/
-│   │   ├── data/
-│   │   ├── notebooks/
-│   │   └── README.md      ← README 
-│   │
-│   └── who_health_cleaning/
-│       ├── data/
-│       ├── notebooks/
-│       └── README.md
-│
-├── 02_exploratory_data_analysis/https://github.com/ammardishnawy2008-tech/adult-income-analysis
-│   ├── world_bank_indicators/
-│   │   ├── notebooks/
-│   │   └── README.md
-│
-├── 03_kaggle_projects/
-│   ├── titanic_analysis/
-│   │   ├── notebooks/
-│   │   └── README.md
-│
-└── README.md   ← README الرئيسي (الأهم)
 
 ⭐ Feel free to explore the projects and review the analysis.
