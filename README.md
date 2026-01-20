@@ -13,6 +13,8 @@ data-analysis-portfolio/
 
 ── 05_Medical-Data-Visualizer-Cardiovascular-Risk-Analysis     /https://github.com/ammardishnawy2008-tech/adult-income-analysis
 
+── 06_Global Renewable Energy Trends Analysis     https://github.com/ammardishnawy2008-tech/Global-Renewable-Energy-Trends-Analysis
+
 └── README.md   ← README
 
 # 📊 Data Analysis Portfolio | Python & EDA
